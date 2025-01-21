@@ -28,6 +28,7 @@ Iniciando a instalação
 -----------
 
 **Certifique-se de ter o [Node](https://nodejs.org) `v18.x` or `v20.x`, [npm](https://www.npmjs.com/) >= `v10.x`**
+
 OBS: Antes de começar a instalação do dspace_front, certifiquese de ter instalado dspace_backend  
 
 ```bash
