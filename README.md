@@ -9,7 +9,7 @@ O software de código aberto DSpace é um aplicativo de repositório pronto para
 2.000 organizações e instituições em todo o mundo para fornecer acesso durável a recursos digitais.
 Para mais informações, visite http://www.dspace.org/
 
-DSpace utilizae Java para backend e  Angular para frontend.
+DSpace utiliza Java para backend e  Angular para frontend.
 
 * Backend (https://github.com/DSpace/DSpace/) fornece uma API REST, junto com outras interfaces baseadas em máquina, consul te a documentação para saber mais.
 * Frontend (this codebase) é a interface do usuário construída na API REST
