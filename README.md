@@ -54,15 +54,15 @@ Acesse: [http://localhost:4000](http://localhost:4000) no navegador de sua prefe
 
 ### Iniciando Customizações 
 -----------
-O dspace_front tem dois temas padrões, custom e o despace, para podermos defir qual queremos a aplicação rederize devemos ir no arquivo config.yml dentro do diretorio /dspace-angular/config/config.yml
+O dspace_front tem dois temas padrões:
+* custom 
+* despace, 
+
+Neste exemplo, vamos usar a thema despace.
+
+Para defir o thema dspace, no qual queremos que aplicação rederize, devemos ir no arquivo config.yml dentro do diretorio /dspace-angular/config/config.yml
 dentro do arquivo vai até a parte de Themes, lá você incontrarar uma uma propriedade **name**, então você deve colocar o nome do tema que você que usar. No nosso caso dspace. 
 
-Dentro do dspace_front, podemos fazer customizações nos temas, utilizando a estrutura do angular. 
-Dentro da pasta /dspace-angular/src/themes, vamos ter alguns temas padrões que você pode fazer customizações, ou você pode criar novos pacotes. 
-Nessa sessã iremos apenas customizar os pacotes que já temos, no caso o pacte padrão do dspace.
-
-Dentro do pacote dspace, que está de diretorio /dspace-angular/src/themes/dspace/, vamos ter nosso componetes, no qual teremos a arquiterua do angula e separa um arquipo para scss, outro javascript e outro html, lá iremos fazer as modificações para cada componenete. 
-
-Após as modificações, iremos rodar a aplicação para vermos nossa modificações. 
+Dentro do pacote dspace, que está de diretorio /dspace-angular/src/themes/dspace/, vamos ter nosso componetes, no qual teremos a arquiterua do angula, lá iremos fazer as modificações para cada componenete. 
 
 
